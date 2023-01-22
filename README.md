@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 📫 How to reach me **victoriabeatrizsar@gmail.com**
+- 📫 How to reach me **victoriabeatrizsar@gmail.com** or **victoriabeatizsar@hotmail.com**
 
 - ⚡ Fun fact **I really love to read and watch tvshows**
 
