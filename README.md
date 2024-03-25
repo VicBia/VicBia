@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicbia" alt="vicbia" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **victoriabeatrizsar@gmail.com** or **victoriabeatizsar@hotmail.com**
 
