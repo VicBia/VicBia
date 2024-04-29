@@ -5,9 +5,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=VicBia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 💫 About Me:
-Hello! 👋 I'm a front-end developer with experience since 2022, mainly focused on front-end development, where I constantly seek to improve my skills. I have extensive experience in creating projects using React.js and Next.js. <br>🔭 I’m currently working on...<br>- Enhancing React.js and Vue.js projects<br>👯 I’m looking to collaborate on... <br>- Open source projects related to React.js, Next.js, Vue.js, Flutter, or React Native <br>- Projects involving UI/UX design and front-end development.<br>🌱 I’m currently learning...<br>- Mobile development with Flutter and React Native <br>- Deepening my knowledge in emerging front-end technologies.<br>⚡ Fun fact<br>- I love to read and watch tv shows.
+I'm a front-end developer with experience since 2022, mainly focused on front-end development, where I constantly seek to improve my skills. I have extensive experience in creating projects using React.js and Next.js. <br>🔭 I’m currently working on...<br>- Enhancing React.js and Vue.js projects<br>👯 I’m looking to collaborate on... <br>- Open source projects related to React.js, Next.js, Vue.js, Flutter, or React Native <br>- Projects involving UI/UX design and front-end development.<br>🌱 I’m currently learning...<br>- Mobile development with Flutter and React Native <br>- Deepening my knowledge in emerging front-end technologies.<br>⚡ Fun fact<br>- I love to read and watch tv shows.
 
 - 📫 How to reach me **victoriabeatrizsar@gmail.com** or **victoriabeatizsar@hotmail.com**
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VicBia&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vic.bia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vic.bia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-beatriz/)
@@ -18,7 +20,6 @@ Hello! 👋 I'm a front-end developer with experience since 2022, mainly focused
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VicBia&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VicBia&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VicBia&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
