@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victoria Beatriz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicbia&label=Profile%20views&color=0e75b6&style=flat" alt="vicbia" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicbia" alt="vicbia" /></a> </p>
-
-<a href="https://www.linkedin.com/in/victoria-beatriz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victoria-beatriz/" height="30" width="40" /></a>
 
 # 💫 About Me:
 Hello! 👋 I'm a front-end developer with experience since 2022, mainly focused on front-end development, where I constantly seek to improve my skills. I have extensive experience in creating projects using React.js and Next.js. <br>🔭 I’m currently working on...<br>- Enhancing React.js and Vue.js projects<br>👯 I’m looking to collaborate on... <br>- Open source projects related to React.js, Next.js, Vue.js, Flutter, or React Native <br>- Projects involving UI/UX design and front-end development.<br>🌱 I’m currently learning...<br>- Mobile development with Flutter and React Native <br>- Deepening my knowledge in emerging front-end technologies.<br>⚡ Fun fact<br>- I love to read and watch tv shows.
@@ -14,12 +11,6 @@ Hello! 👋 I'm a front-end developer with experience since 2022, mainly focused
 ![](https://github-readme-stats.vercel.app/api?username=VicBia&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VicBia&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VicBia&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VicBia&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VicBia&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VicBia&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VicBia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
